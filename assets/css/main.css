@@ -3,17 +3,6 @@
     padding: 0;
 }
 
-#titulo{
-    font-family: sans-serif;
-    color: rgb(0, 0, 0);
-    margin-left: 9%;
-}
-
-#subtitulo{
-    font-family: sans-serif;
-    color: rgb(255, 255, 255);
-    margin-left: 9%;
-}
 
 fieldset{
     border: 0;
